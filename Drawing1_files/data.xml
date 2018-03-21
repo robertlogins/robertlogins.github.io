@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="utf-8"?>
+<VisioDocument>
+	<DocumentProperties>
+		<Title></Title>
+		<HyperlinkBase href=""></HyperlinkBase>
+	</DocumentProperties>
+	<Pages>
+		<Page ID="0" Name="Page-1" NameU="Page-1">
+			<Shapes>
+				<Shape ID="1" UniqueID="{C5E818BA-83B0-478B-869C-13A1BA635616}" Name="Square" NameU="Square" Master="2">
+					<XForm>
+						<PinX Unit="MM">9.467519685039370</PinX>
+						<PinY Unit="MM">12.892716535433072</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="2" UniqueID="{EB7317C1-9ADB-498D-B058-42A72726BDE4}" Name="Square.2" NameU="Square.2" Master="2">
+					<XForm>
+						<PinX Unit="MM">10.129921259842519</PinX>
+						<PinY Unit="MM">15.129921259842520</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="3" UniqueID="{56B6E268-FA64-4D7E-8B2C-EECF642BD77F}" Name="Square.3" NameU="Square.3" Master="2">
+					<XForm>
+						<PinX Unit="MM">12.760826771653541</PinX>
+						<PinY Unit="MM">13.286417322834644</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="4" UniqueID="{41AC4D04-D145-45B3-B6B7-3C7664E61DEB}" Name="Circle" NameU="Circle" Master="4">
+					<XForm>
+						<PinX Unit="MM">10.129921259842519</PinX>
+						<PinY Unit="MM">16.311023622047244</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="5" UniqueID="{025602DE-798B-4445-BDE3-E883249E1329}" Name="Right Triangle" NameU="Right Triangle" Master="5">
+					<XForm>
+						<PinX Unit="MM">12.760826771653537</PinX>
+						<PinY Unit="MM">15.523622047244096</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="7" UniqueID="{F456D680-3FF2-49B8-B6EA-17BE44AA151B}" Name="Circle.7" NameU="Circle.7" Master="4">
+					<XForm>
+						<PinX Unit="MM">12.760826771653537</PinX>
+						<PinY Unit="MM">15.917322834645670</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="8" UniqueID="{72AC9C18-2D48-4956-8740-054EB861AAC2}" Name="Cross" NameU="Cross" Master="6">
+					<XForm>
+						<PinX Unit="MM">15.391732283464563</PinX>
+						<PinY Unit="MM">13.555118110236222</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="9" UniqueID="{749FE793-31D2-4300-ACB3-8A547795F4AE}" Name="Square.9" NameU="Square.9" Master="2">
+					<XForm>
+						<PinX Unit="MM">16.966535433070860</PinX>
+						<PinY Unit="MM">12.230314960629922</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="10" UniqueID="{822647C2-A955-4F01-94F5-F456B5D0514A}" Name="Square.10" NameU="Square.10" Master="2">
+					<XForm>
+						<PinX Unit="MM">19.597440944881882</PinX>
+						<PinY Unit="MM">13.286417322834637</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="11" UniqueID="{FC8A9C88-12CA-4845-9E11-AE42E567503F}" Name="Rectangle" NameU="Rectangle" Master="7">
+					<XForm>
+						<PinX Unit="MM">17.485236220472437</PinX>
+						<PinY Unit="MM">13.601377952755907</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="12" UniqueID="{DB57710C-BDF7-4FDA-830A-681F68C08DF8}" Name="Square.12" NameU="Square.12" Master="2">
+					<XForm>
+						<PinX Unit="MM">16.947834645669289</PinX>
+						<PinY Unit="MM">13.286417322834646</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="13" UniqueID="{1220EB27-AAFD-4D61-AAC9-C731062440AC}" Name="24-Point Star" NameU="24-Point Star" Master="8">
+					<XForm>
+						<PinX Unit="MM">19.597440944881885</PinX>
+						<PinY Unit="MM">17.209645669291330</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="14" UniqueID="{6E748DD2-71EA-4D2E-A78C-4BF9C1A36EC4}" Name="Rectangle.14" NameU="Rectangle.14" Master="7">
+					<XForm>
+						<PinX Unit="MM">19.597440944881885</PinX>
+						<PinY Unit="MM">19.867125984251970</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="15" UniqueID="{3C76C48D-5BCE-49D7-95BF-8727EC491DE3}" Name="Rectangle.15" NameU="Rectangle.15" Master="7">
+					<XForm>
+						<PinX Unit="MM">22.753280839895030</PinX>
+						<PinY Unit="MM">12.427165354330716</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="16" UniqueID="{13CBF5D6-D54F-46F7-A1BA-209797880C49}" Name="Square.16" NameU="Square.16" Master="2">
+					<XForm>
+						<PinX Unit="MM">27.693241469816297</PinX>
+						<PinY Unit="MM">7.520013123359602</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="17" UniqueID="{5BC1802B-34C4-4EB0-AC30-956FF6BCFCD1}" Name="Trapezoid" NameU="Trapezoid" Master="9">
+					<XForm>
+						<PinX Unit="MM">21.172572178477708</PinX>
+						<PinY Unit="MM">6.062171916010561</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="18" UniqueID="{BD3BC0AB-BC37-450A-BDB4-ED6F3EAC3956}" Name="32-Point Star" NameU="32-Point Star" Master="10">
+					<XForm>
+						<PinX Unit="MM">15.201771653543286</PinX>
+						<PinY Unit="MM">4.678149606299217</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="19" UniqueID="{18598358-3B94-4FCF-BE03-9C5DE0481BA2}" Name="Trapezoid.19" NameU="Trapezoid.19" Master="9">
+					<XForm>
+						<PinX Unit="MM">6.305282152230977</PinX>
+						<PinY Unit="MM">6.373523622047232</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="20" UniqueID="{F547C860-0096-4EC3-A6A7-174849A86208}" Name="Circle.20" NameU="Circle.20" Master="4">
+					<XForm>
+						<PinX Unit="MM">8.948818897637793</PinX>
+						<PinY Unit="MM">14.736220472440948</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="21" UniqueID="{C736B26F-212D-4F67-BDE1-E0D02B13670F}" Name="Rectangle.21" NameU="Rectangle.21" Master="7">
+					<XForm>
+						<PinX Unit="MM">2.743391451068617</PinX>
+						<PinY Unit="MM">11.442913385826778</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="22" UniqueID="{7F00A19F-C45F-4A79-B91E-D7FEE32115B0}" Name="Chevron" NameU="Chevron" Master="11">
+					<XForm>
+						<PinX Unit="MM">5.405511811023621</PinX>
+						<PinY Unit="MM">10.011811023622048</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="23" UniqueID="{3BCBA2AD-EE0F-4B1A-9E29-28C7EE504062}" Name="Chevron.23" NameU="Chevron.23" Master="11">
+					<XForm>
+						<PinX Unit="MM">5.405511811023620</PinX>
+						<PinY Unit="MM">11.192913385826772</PinY>
+					</XForm>
+				</Shape>
+				<Shape ID="24" UniqueID="{1A1F7C0B-6857-44C4-A226-67EC9FC06C67}" Name="Chevron.24" NameU="Chevron.24" Master="11">
+					<XForm>
+						<PinX Unit="MM">5.405511811023620</PinX>
+						<PinY Unit="MM">12.374015748031500</PinY>
+					</XForm>
+				</Shape>
+			</Shapes>
+		</Page>
+	</Pages>
+</VisioDocument>
