@@ -1,0 +1,59 @@
+Creating our first item
+
+Each word in a file is a section.
+For example:
+
+ID
+
+ID is a section that gives an item it's own ID, so it can load all the data.
+ID supports values, so we are going something to it.
+
+ID
+"0"
+
+Now we have created an item. It is now ready to use!
+Save it in: <game directory>\resources\items
+Give the file a name, any name will do.
+
+Now we are going to customize it and add some more sections and values.
+Name is a section that tells the game the name of an item.
+Name also supports values, so we are going to add this:
+
+Name
+"Super Mega Ultra Alpha Sword"
+
+Now the item's name is "Super Mega Ultra Alpha Sword".
+Our code will look like this:
+
+ID
+"0"
+Name
+"Super Mega Ultra Alpha Sword"
+
+This is an item with a name, but it is still not a real sword.
+Now let's make it a sword!
+
+By default, items do 0.5 damage.
+We can increase it by using an attribute.
+The game already has an attribute for damage, so now we are going to add damage to the item.
+Attributes is a section for attributes that the game has.
+This is an attribute example to make an item a sword.
+
+Attributes
+"0 1000"
+
+0 is the attribute's ID and 1000 is the attributes value.
+You can also put 7.5 instead of 1000.
+So now our item deals 1000 (or 7.5) damage!
+Code:
+
+ID
+"0"
+Name
+"Super Mega Ultra Alpha Sword"
+Attributes
+"0 1000"
+
+
+Tip:
+You can look at the current attributes for items at robertlogins.github.io/data/info/attribute_dictionary.txt

@@ -1,0 +1,10 @@
+ID
+"0"
+Name
+"Damage"
+Type
+"Edit"
+Check
+Player Attacked
+Do
+Subtract Value From Victim Health

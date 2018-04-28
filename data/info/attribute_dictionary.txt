@@ -1,0 +1,4 @@
+0 <value>
+Damage dealt using this item.
+1 <value>
+Damage taken by equipping this item.

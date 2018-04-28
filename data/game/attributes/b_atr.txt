@@ -1,0 +1,16 @@
+ID
+"1"
+Name
+"Armor Level"
+Type
+"Edit"
+Firstly:
+Check
+This Was Equipped In Armor Slot
+Do
+Multiply Player Health By Value And Hide
+Or
+Check
+This Was Removed From Armor Slot
+Do
+Divide Player Health By Value And Hide

@@ -1,0 +1,6 @@
+ID
+"2"
+Name
+"Armor"
+Attributes
+"1 1000"

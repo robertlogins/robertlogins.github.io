@@ -1,0 +1,3 @@
+<DEFAULT>
+Panic
+Display Error About Blueprint

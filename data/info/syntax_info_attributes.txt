@@ -1,0 +1,96 @@
+Creating our first attribute
+
+Attributes have some sections that also exist in items: ID and Name.
+But they also have more: Check, Do, Type, and more.
+Attributes don't overwrite items, so don't worry about putting the ID 0 for both item and attribute.
+We are going to make the base.
+
+ID
+"0"
+Name
+"Maximum Health"
+
+So, what to do next?
+Type is a section that makes an attribute editable, non-editable, etc.
+Let's add:
+
+Type
+"Edit"
+
+Now this attribute is editable.
+Check and Do are one of the sections that need to be placed after each other (Do after Check for example).
+Let's put them now.
+
+Check
+Do
+
+But nothing will work without no code, so we are going to add some code.
+In this case I want the player to have more maximum health.
+So I'm going to add this:
+
+Set Player Maximum Health To Value
+
+In:
+
+Check
+Do
+Set Player Maximum Health To Value
+
+If we have nothing to check, we can delete the Check section:
+
+Do
+Set Player Maximum Health To Value
+
+You don't need to edit this, you'll see why.
+Let's imagine that we have a potion.
+As we know, we need to put:
+
+Attributes
+"<id> <value>"
+
+The attribute is editable so we can put a value into it!
+For example... 100.
+
+Attributes
+"<id> 100"
+
+Now we will have 100 maximum health when we will drink it!
+Our code looks like this now:
+
+ID
+"0"
+Name
+"Maximum Health"
+Do
+Set Player Maximum Health To Value
+
+We are pretty much done here... but:
+What if we are REALLY making a potion?
+We must check if the item has been drinked.
+So we will actually need to add the Check section:
+
+Check
+Do
+Set Player Maximum Health To Value
+
+We still have nothing in it, so we will add:
+
+This Was Drinked
+
+in the Check section.
+
+Our code now:
+
+ID
+"0"
+Name
+"Maximum Health"
+Check
+This Was Drinked
+Do
+Set Player Maximum Health To Value
+
+TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO!!!
+TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO!!!
+TODO TODO TODO TODO TODO TODO TODO TODO TODO TODO!!!
+Add more details
